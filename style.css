@@ -1,0 +1,8 @@
+body {
+    background-color: #e5e5ee;
+}
+
+.nav-extended {
+    background-image: url(img\capa.jpg);
+    background-size: cover;
+}
